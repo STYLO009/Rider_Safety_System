@@ -1,0 +1,33 @@
+{
+  "total_events": 3,
+  "event_counts": {
+    "lane_departure": 1,
+    "low_road_coverage": 2
+  },
+  "events": [
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688506.356573,
+      "datetime": "2026-05-25T11:25:06.356573",
+      "speed_kmh": 0.0,
+      "road_ratio": 0.0,
+      "departure": true
+    },
+    {
+      "type": "low_road_coverage",
+      "timestamp": 1779688506.356573,
+      "datetime": "2026-05-25T11:25:06.356573",
+      "speed_kmh": 0.0,
+      "road_ratio": 0.0,
+      "departure": true
+    },
+    {
+      "type": "low_road_coverage",
+      "timestamp": 1779688506.356573,
+      "datetime": "2026-05-25T11:25:06.356573",
+      "speed_kmh": 0.0,
+      "road_ratio": 0.0,
+      "departure": true
+    }
+  ]
+}

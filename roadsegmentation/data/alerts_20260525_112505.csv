@@ -1,0 +1,9 @@
+timestamp,datetime,alert_key,severity,message,speed_kmh,road_ratio
+1779688505.5776486,2026-05-25T11:25:05.577648,lane_departure,WARNING,WARNING: Lane departure detected,0.0,0.0
+1779688505.6553724,2026-05-25T11:25:05.655372,low_road_coverage,INFO,INFO: Low road visibility (0% road detected),0.0,0.0
+1779688508.6407256,2026-05-25T11:25:08.640725,lane_departure,WARNING,WARNING: Lane departure detected,0.0,0.0
+1779688508.7272499,2026-05-25T11:25:08.727249,low_road_coverage,INFO,INFO: Low road visibility (0% road detected),0.0,0.0
+1779688511.71732,2026-05-25T11:25:11.717319,lane_departure,WARNING,WARNING: Lane departure detected,0.0,0.0
+1779688511.8045428,2026-05-25T11:25:11.804542,low_road_coverage,INFO,INFO: Low road visibility (0% road detected),0.0,0.0
+1779688514.8032315,2026-05-25T11:25:14.803231,lane_departure,WARNING,WARNING: Lane departure detected,0.0,0.0
+1779688514.877887,2026-05-25T11:25:14.877887,low_road_coverage,INFO,INFO: Low road visibility (0% road detected),0.0,0.0

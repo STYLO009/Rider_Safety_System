@@ -1,0 +1,361 @@
+{
+  "total_events": 44,
+  "event_counts": {
+    "speeding": 36,
+    "lane_departure": 8
+  },
+  "events": [
+    {
+      "type": "speeding",
+      "timestamp": 1779688807.7260683,
+      "datetime": "2026-05-25T11:30:07.726068",
+      "speed_kmh": 1174.66,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688811.94419,
+      "datetime": "2026-05-25T11:30:11.944190",
+      "speed_kmh": 88.2,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688816.8158033,
+      "datetime": "2026-05-25T11:30:16.815803",
+      "speed_kmh": 246.41,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688821.6115792,
+      "datetime": "2026-05-25T11:30:21.611579",
+      "speed_kmh": 140.96,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688832.0045748,
+      "datetime": "2026-05-25T11:30:32.004574",
+      "speed_kmh": 156.19,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688833.2561824,
+      "datetime": "2026-05-25T11:30:33.256182",
+      "speed_kmh": 229.19,
+      "road_ratio": 0.45,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688836.5586386,
+      "datetime": "2026-05-25T11:30:36.558638",
+      "speed_kmh": 62.13,
+      "road_ratio": 0.227,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688839.161438,
+      "datetime": "2026-05-25T11:30:39.161437",
+      "speed_kmh": 26.56,
+      "road_ratio": 0.23,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688841.2355127,
+      "datetime": "2026-05-25T11:30:41.235512",
+      "speed_kmh": 11.94,
+      "road_ratio": 0.315,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688843.423715,
+      "datetime": "2026-05-25T11:30:43.423715",
+      "speed_kmh": 17.28,
+      "road_ratio": 0.231,
+      "departure": true
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688849.2494185,
+      "datetime": "2026-05-25T11:30:49.249418",
+      "speed_kmh": 332.54,
+      "road_ratio": 0.416,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688850.1757872,
+      "datetime": "2026-05-25T11:30:50.175787",
+      "speed_kmh": 236.47,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688852.5149038,
+      "datetime": "2026-05-25T11:30:52.514903",
+      "speed_kmh": 1752.77,
+      "road_ratio": 0.524,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688868.6874678,
+      "datetime": "2026-05-25T11:31:08.687467",
+      "speed_kmh": 408.04,
+      "road_ratio": 0.261,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688871.2500494,
+      "datetime": "2026-05-25T11:31:11.250049",
+      "speed_kmh": 678.18,
+      "road_ratio": 0.346,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688873.7994118,
+      "datetime": "2026-05-25T11:31:13.799411",
+      "speed_kmh": 1824.56,
+      "road_ratio": 0.312,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688878.731819,
+      "datetime": "2026-05-25T11:31:18.731818",
+      "speed_kmh": 1461.73,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688881.9258618,
+      "datetime": "2026-05-25T11:31:21.925862",
+      "speed_kmh": 872.42,
+      "road_ratio": 0.292,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688884.4729474,
+      "datetime": "2026-05-25T11:31:24.472947",
+      "speed_kmh": 410.14,
+      "road_ratio": 0.769,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688896.6959462,
+      "datetime": "2026-05-25T11:31:36.695946",
+      "speed_kmh": 1170.65,
+      "road_ratio": 0.942,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688897.4863594,
+      "datetime": "2026-05-25T11:31:37.486359",
+      "speed_kmh": 423.48,
+      "road_ratio": 0.066,
+      "departure": true
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688902.5275927,
+      "datetime": "2026-05-25T11:31:42.527592",
+      "speed_kmh": 266.41,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688807.7260683,
+      "datetime": "2026-05-25T11:30:07.726068",
+      "speed_kmh": 1174.66,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688811.94419,
+      "datetime": "2026-05-25T11:30:11.944190",
+      "speed_kmh": 88.2,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688816.8158033,
+      "datetime": "2026-05-25T11:30:16.815803",
+      "speed_kmh": 246.41,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688821.6115792,
+      "datetime": "2026-05-25T11:30:21.611579",
+      "speed_kmh": 140.96,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688832.0045748,
+      "datetime": "2026-05-25T11:30:32.004574",
+      "speed_kmh": 156.19,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688833.2561824,
+      "datetime": "2026-05-25T11:30:33.256182",
+      "speed_kmh": 229.19,
+      "road_ratio": 0.45,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688836.5586386,
+      "datetime": "2026-05-25T11:30:36.558638",
+      "speed_kmh": 62.13,
+      "road_ratio": 0.227,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688839.161438,
+      "datetime": "2026-05-25T11:30:39.161437",
+      "speed_kmh": 26.56,
+      "road_ratio": 0.23,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688841.2355127,
+      "datetime": "2026-05-25T11:30:41.235512",
+      "speed_kmh": 11.94,
+      "road_ratio": 0.315,
+      "departure": true
+    },
+    {
+      "type": "lane_departure",
+      "timestamp": 1779688843.423715,
+      "datetime": "2026-05-25T11:30:43.423715",
+      "speed_kmh": 17.28,
+      "road_ratio": 0.231,
+      "departure": true
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688849.2494185,
+      "datetime": "2026-05-25T11:30:49.249418",
+      "speed_kmh": 332.54,
+      "road_ratio": 0.416,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688850.1757872,
+      "datetime": "2026-05-25T11:30:50.175787",
+      "speed_kmh": 236.47,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688852.5149038,
+      "datetime": "2026-05-25T11:30:52.514903",
+      "speed_kmh": 1752.77,
+      "road_ratio": 0.524,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688868.6874678,
+      "datetime": "2026-05-25T11:31:08.687467",
+      "speed_kmh": 408.04,
+      "road_ratio": 0.261,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688871.2500494,
+      "datetime": "2026-05-25T11:31:11.250049",
+      "speed_kmh": 678.18,
+      "road_ratio": 0.346,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688873.7994118,
+      "datetime": "2026-05-25T11:31:13.799411",
+      "speed_kmh": 1824.56,
+      "road_ratio": 0.312,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688878.731819,
+      "datetime": "2026-05-25T11:31:18.731818",
+      "speed_kmh": 1461.73,
+      "road_ratio": 0.95,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688881.9258618,
+      "datetime": "2026-05-25T11:31:21.925862",
+      "speed_kmh": 872.42,
+      "road_ratio": 0.292,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688884.4729474,
+      "datetime": "2026-05-25T11:31:24.472947",
+      "speed_kmh": 410.14,
+      "road_ratio": 0.769,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688896.6959462,
+      "datetime": "2026-05-25T11:31:36.695946",
+      "speed_kmh": 1170.65,
+      "road_ratio": 0.942,
+      "departure": false
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688897.4863594,
+      "datetime": "2026-05-25T11:31:37.486359",
+      "speed_kmh": 423.48,
+      "road_ratio": 0.066,
+      "departure": true
+    },
+    {
+      "type": "speeding",
+      "timestamp": 1779688902.5275927,
+      "datetime": "2026-05-25T11:31:42.527592",
+      "speed_kmh": 266.41,
+      "road_ratio": 0.95,
+      "departure": false
+    }
+  ]
+}

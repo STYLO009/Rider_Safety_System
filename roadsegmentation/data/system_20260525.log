@@ -1,0 +1,173 @@
+[2026-05-25 11:07:49] INFO — System starting up.
+[2026-05-25 11:08:44] INFO — System starting up.
+[2026-05-25 11:11:28] INFO — System starting up.
+[2026-05-25 11:11:29] INFO — Camera started.
+[2026-05-25 11:11:31] INFO — Session ended. Final safety score: 100.0
+[2026-05-25 11:14:26] INFO — System starting up.
+[2026-05-25 11:14:27] INFO — Camera started.
+[2026-05-25 11:14:28] INFO — Session ended. Final safety score: 100.0
+[2026-05-25 11:17:26] INFO — System starting up.
+[2026-05-25 11:17:27] INFO — Camera started.
+[2026-05-25 11:17:27] INFO — Session ended. Final safety score: 100.0
+[2026-05-25 11:19:16] INFO — System starting up.
+[2026-05-25 11:19:16] INFO — Camera started. Warming up...
+[2026-05-25 11:19:17] INFO — Camera ready. Starting main loop. Press Q to quit.
+[2026-05-25 11:19:17] ERROR — Unexpected error: Cannot set tensor: Dimension mismatch. Got 256 but expected 257 for dimension 1 of input 183.
+[2026-05-25 11:19:18] INFO — Session ended. Final safety score: 100.0
+[2026-05-25 11:21:06] INFO — System starting up.
+[2026-05-25 11:21:07] INFO — Camera started. Warming up...
+[2026-05-25 11:21:07] INFO — Camera ready. Starting main loop. Press Q to quit.
+[2026-05-25 11:21:08] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:08] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:09] INFO — Review event: {'type': 'low_road_coverage', 'timestamp': 1779688269.0245624, 'datetime': '2026-05-25T11:21:09.024562', 'speed_kmh': 0.0, 'road_ratio': 0.0, 'departure': True}
+[2026-05-25 11:21:11] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:11] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:14] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:14] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:17] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:17] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:20] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:20] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:23] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:23] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:26] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:26] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:29] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:29] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:32] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:32] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:35] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:21:35] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:21:35] ERROR — Unexpected error: only length-1 arrays can be converted to Python scalars
+[2026-05-25 11:21:36] INFO — Session ended. Final safety score: 60.8
+[2026-05-25 11:25:04] INFO — System starting up.
+[2026-05-25 11:25:05] INFO — Phone camera stream started. Warming up...
+[2026-05-25 11:25:05] INFO — Stream ready. Starting main loop. Press Q to quit.
+[2026-05-25 11:25:05] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:05] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:06] INFO — Review event: {'type': 'low_road_coverage', 'timestamp': 1779688506.356573, 'datetime': '2026-05-25T11:25:06.356573', 'speed_kmh': 0.0, 'road_ratio': 0.0, 'departure': True}
+[2026-05-25 11:25:08] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:08] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:11] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:11] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:14] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:14] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:17] ERROR — Unexpected error: only length-1 arrays can be converted to Python scalars
+[2026-05-25 11:25:17] INFO — Session ended. Final safety score: 82.2
+[2026-05-25 11:25:28] INFO — System starting up.
+[2026-05-25 11:25:29] INFO — Phone camera stream started. Warming up...
+[2026-05-25 11:25:29] INFO — Stream ready. Starting main loop. Press Q to quit.
+[2026-05-25 11:25:29] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:29] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:30] INFO — Review event: {'type': 'low_road_coverage', 'timestamp': 1779688530.3644288, 'datetime': '2026-05-25T11:25:30.364428', 'speed_kmh': 0.0, 'road_ratio': 0.0, 'departure': True}
+[2026-05-25 11:25:32] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:32] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:35] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:35] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:38] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:38] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:41] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:41] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:44] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:44] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:47] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:47] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:50] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:50] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:53] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:54] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:56] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:25:57] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:25:59] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:26:00] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:26:02] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:26:03] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:26:05] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:26:06] INFO — ALERT: INFO: Low road visibility (0% road detected)
+[2026-05-25 11:26:08] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:26:09] ERROR — Unexpected error: only length-1 arrays can be converted to Python scalars
+[2026-05-25 11:26:09] INFO — Session ended. Final safety score: 53.8
+[2026-05-25 11:29:43] INFO — System starting up.
+[2026-05-25 11:30:05] INFO — System starting up.
+[2026-05-25 11:30:05] INFO — Phone camera stream started. Warming up...
+[2026-05-25 11:30:05] INFO — Stream ready. Starting main loop. Press Q to quit.
+[2026-05-25 11:30:07] INFO — ALERT: WARNING: Speed 64.0 km/h — above limit
+[2026-05-25 11:30:07] INFO — ALERT: CRITICAL: Speed 106.9 km/h — far above limit
+[2026-05-25 11:30:07] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:07] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688807.7260683, 'datetime': '2026-05-25T11:30:07.726068', 'speed_kmh': 1174.66, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:30:11] INFO — ALERT: CRITICAL: Speed 83.7 km/h — far above limit
+[2026-05-25 11:30:11] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688811.94419, 'datetime': '2026-05-25T11:30:11.944190', 'speed_kmh': 88.2, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:30:16] INFO — ALERT: WARNING: Speed 72.1 km/h — above limit
+[2026-05-25 11:30:16] INFO — ALERT: CRITICAL: Speed 116.6 km/h — far above limit
+[2026-05-25 11:30:16] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688816.8158033, 'datetime': '2026-05-25T11:30:16.815803', 'speed_kmh': 246.41, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:30:19] INFO — ALERT: CRITICAL: Speed 1105.8 km/h — far above limit
+[2026-05-25 11:30:21] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688821.6115792, 'datetime': '2026-05-25T11:30:21.611579', 'speed_kmh': 140.96, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:30:22] INFO — ALERT: CRITICAL: Speed 112.5 km/h — far above limit
+[2026-05-25 11:30:23] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:25] INFO — ALERT: CRITICAL: Speed 805.0 km/h — far above limit
+[2026-05-25 11:30:26] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:26] INFO — ALERT: INFO: Low road visibility (10% road detected)
+[2026-05-25 11:30:28] INFO — ALERT: CRITICAL: Speed 281.7 km/h — far above limit
+[2026-05-25 11:30:29] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:31] INFO — ALERT: WARNING: Speed 67.7 km/h — above limit
+[2026-05-25 11:30:31] INFO — ALERT: CRITICAL: Speed 134.8 km/h — far above limit
+[2026-05-25 11:30:32] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688832.0045748, 'datetime': '2026-05-25T11:30:32.004574', 'speed_kmh': 156.19, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:30:33] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:33] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688833.2561824, 'datetime': '2026-05-25T11:30:33.256182', 'speed_kmh': 229.19, 'road_ratio': 0.45, 'departure': True}
+[2026-05-25 11:30:34] INFO — ALERT: CRITICAL: Speed 494.4 km/h — far above limit
+[2026-05-25 11:30:35] INFO — ALERT: WARNING: Speed 73.0 km/h — above limit
+[2026-05-25 11:30:36] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:36] INFO — Review event: {'type': 'lane_departure', 'timestamp': 1779688836.5586386, 'datetime': '2026-05-25T11:30:36.558638', 'speed_kmh': 62.13, 'road_ratio': 0.227, 'departure': True}
+[2026-05-25 11:30:39] INFO — Review event: {'type': 'lane_departure', 'timestamp': 1779688839.161438, 'datetime': '2026-05-25T11:30:39.161437', 'speed_kmh': 26.56, 'road_ratio': 0.23, 'departure': True}
+[2026-05-25 11:30:39] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:41] INFO — Review event: {'type': 'lane_departure', 'timestamp': 1779688841.2355127, 'datetime': '2026-05-25T11:30:41.235512', 'speed_kmh': 11.94, 'road_ratio': 0.315, 'departure': True}
+[2026-05-25 11:30:42] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:43] INFO — Review event: {'type': 'lane_departure', 'timestamp': 1779688843.423715, 'datetime': '2026-05-25T11:30:43.423715', 'speed_kmh': 17.28, 'road_ratio': 0.231, 'departure': True}
+[2026-05-25 11:30:45] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:48] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:48] INFO — ALERT: WARNING: Speed 61.7 km/h — above limit
+[2026-05-25 11:30:48] INFO — ALERT: CRITICAL: Speed 101.1 km/h — far above limit
+[2026-05-25 11:30:49] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688849.2494185, 'datetime': '2026-05-25T11:30:49.249418', 'speed_kmh': 332.54, 'road_ratio': 0.416, 'departure': False}
+[2026-05-25 11:30:49] INFO — ALERT: INFO: Low road visibility (10% road detected)
+[2026-05-25 11:30:50] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688850.1757872, 'datetime': '2026-05-25T11:30:50.175787', 'speed_kmh': 236.47, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:30:51] INFO — ALERT: CRITICAL: Speed 124.5 km/h — far above limit
+[2026-05-25 11:30:52] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:30:52] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688852.5149038, 'datetime': '2026-05-25T11:30:52.514903', 'speed_kmh': 1752.77, 'road_ratio': 0.524, 'departure': False}
+[2026-05-25 11:30:54] INFO — ALERT: WARNING: Speed 76.2 km/h — above limit
+[2026-05-25 11:30:55] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:31:06] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:31:08] INFO — ALERT: WARNING: Speed 69.8 km/h — above limit
+[2026-05-25 11:31:08] INFO — ALERT: CRITICAL: Speed 85.4 km/h — far above limit
+[2026-05-25 11:31:08] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688868.6874678, 'datetime': '2026-05-25T11:31:08.687467', 'speed_kmh': 408.04, 'road_ratio': 0.261, 'departure': False}
+[2026-05-25 11:31:09] INFO — ALERT: INFO: Low road visibility (8% road detected)
+[2026-05-25 11:31:10] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:31:11] INFO — ALERT: CRITICAL: Speed 672.1 km/h — far above limit
+[2026-05-25 11:31:11] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688871.2500494, 'datetime': '2026-05-25T11:31:11.250049', 'speed_kmh': 678.18, 'road_ratio': 0.346, 'departure': False}
+[2026-05-25 11:31:13] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688873.7994118, 'datetime': '2026-05-25T11:31:13.799411', 'speed_kmh': 1824.56, 'road_ratio': 0.312, 'departure': False}
+[2026-05-25 11:31:14] INFO — ALERT: CRITICAL: Speed 2778.5 km/h — far above limit
+[2026-05-25 11:31:14] INFO — ALERT: INFO: Low road visibility (9% road detected)
+[2026-05-25 11:31:15] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:31:17] INFO — ALERT: CRITICAL: Speed 1959.2 km/h — far above limit
+[2026-05-25 11:31:18] INFO — ALERT: INFO: Low road visibility (5% road detected)
+[2026-05-25 11:31:18] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688878.731819, 'datetime': '2026-05-25T11:31:18.731818', 'speed_kmh': 1461.73, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:31:20] INFO — ALERT: CRITICAL: Speed 1279.1 km/h — far above limit
+[2026-05-25 11:31:21] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688881.9258618, 'datetime': '2026-05-25T11:31:21.925862', 'speed_kmh': 872.42, 'road_ratio': 0.292, 'departure': False}
+[2026-05-25 11:31:22] INFO — ALERT: WARNING: Speed 75.1 km/h — above limit
+[2026-05-25 11:31:23] INFO — ALERT: CRITICAL: Speed 83.6 km/h — far above limit
+[2026-05-25 11:31:24] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688884.4729474, 'datetime': '2026-05-25T11:31:24.472947', 'speed_kmh': 410.14, 'road_ratio': 0.769, 'departure': False}
+[2026-05-25 11:31:26] INFO — ALERT: CRITICAL: Speed 194.1 km/h — far above limit
+[2026-05-25 11:31:36] INFO — ALERT: CRITICAL: Speed 110.4 km/h — far above limit
+[2026-05-25 11:31:36] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688896.6959462, 'datetime': '2026-05-25T11:31:36.695946', 'speed_kmh': 1170.65, 'road_ratio': 0.942, 'departure': False}
+[2026-05-25 11:31:37] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688897.4863594, 'datetime': '2026-05-25T11:31:37.486359', 'speed_kmh': 423.48, 'road_ratio': 0.066, 'departure': True}
+[2026-05-25 11:31:37] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:31:39] INFO — ALERT: CRITICAL: Speed 274.1 km/h — far above limit
+[2026-05-25 11:31:40] INFO — ALERT: WARNING: Lane departure detected
+[2026-05-25 11:31:42] INFO — ALERT: CRITICAL: Speed 1138.2 km/h — far above limit
+[2026-05-25 11:31:42] INFO — Review event: {'type': 'speeding', 'timestamp': 1779688902.5275927, 'datetime': '2026-05-25T11:31:42.527592', 'speed_kmh': 266.41, 'road_ratio': 0.95, 'departure': False}
+[2026-05-25 11:31:43] INFO — Window closed — stopping.
+[2026-05-25 11:31:43] INFO — Session ended. Final safety score: 0.0
+[2026-05-25 11:36:42] INFO — System starting up.
+[2026-05-25 11:42:57] INFO — System starting up.
+[2026-05-25 11:42:57] INFO — Camera started. Warming up...
+[2026-05-25 11:42:57] INFO — Stream ready. Press Q to quit.
+[2026-05-25 11:44:23] INFO — Session ended. Score: 100.0
